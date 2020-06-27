@@ -1,2 +1,28 @@
-# visual-studio
- Tenho alguns projetos de iniciante criados no  Visual Studio. Vou subir para esse repósitorio. A princípio segue uma aplicação bem simples, apenas um "login" que abre um formulário o qual não adicionei nada, mas deixo disponível para quem se interessar. Mais informações no README!
+# Visual Studio
+
+### Tenho alguns projetos de iniciante criados no  Visual Studio. Vou subir para esse repósitorio. 
+
+__*A princípio, segue uma aplicação bem simples! Apenas um "login" que abre um formulário o qual não adicionei nada, mas deixo disponível para quem se interessar.*__
+ 
+  No [Form1.vb](https://github.com/mlssystem/visual-studio/blob/master/Senha/Senha/Form1.vb) que se encontra no diretório senha. Consta as informações de ligin e senha, mas para facilitar segue as informações a baixo:
+  
+  * Login: admin
+  
+  * Senha: admin
+  
+  Também criei um sistema de cadastro e consulta de clientes que não estou mais conseguindo conectar com o banco de dados, mas assim que conseguir irei disponibiliza também. Esse formulario de senha foi criado com itenção de integrar com o sistema que ja estava pronto.
+  
+  #### Aplicações de iniciante que criei, e voi disponibilizar:
+  
+  - [ ] Cadastro de clientes
+  - [ ] Aplicativo para abrir qualquer arquivo
+  - [ ] Aplicação SendKeys
+  
+  **OBS.** _Cadastro de clientes tem uns 4 vou escolher o melhor. Fiquei um tempão sem mexer com visual studio porque comecei mexer com Java._
+  
+  ## Licença
+
+Copyright (c) MLSSystem Todos os direitos reservados.
+
+Licenciado sob a licença [MIT](LICENSE.txt).
+
