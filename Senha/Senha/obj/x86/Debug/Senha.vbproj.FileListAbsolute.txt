@@ -1,0 +1,32 @@
+C:\Users\Usuario\AppData\Local\Temporary Projects\Senha\bin\Debug\Senha.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\Senha\bin\Debug\Senha.pdb
+C:\Users\Usuario\AppData\Local\Temporary Projects\Senha\bin\Debug\Senha.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\Senha\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\AppData\Local\Temporary Projects\Senha\obj\x86\Debug\Senha.Form1.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\Senha\obj\x86\Debug\Senha.Resources.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\Senha\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Usuario\AppData\Local\Temporary Projects\Senha\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Usuario\AppData\Local\Temporary Projects\Senha\obj\x86\Debug\Senha.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\Senha\obj\x86\Debug\Senha.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\Senha\obj\x86\Debug\Senha.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Senha\Senha\obj\x86\Debug\Senha.exe
+C:\Users\Usuario\documents\visual studio 2010\Projects\Senha\Senha\obj\x86\Debug\Senha.xml
+C:\Users\Usuario\documents\visual studio 2010\Projects\Senha\Senha\obj\x86\Debug\Senha.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Senha\Senha\bin\Debug\Senha.exe
+C:\Users\Usuario\documents\visual studio 2010\Projects\Senha\Senha\bin\Debug\Senha.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\Senha\Senha\bin\Debug\Senha.xml
+C:\Users\Usuario\documents\visual studio 2010\Projects\Senha\Senha\obj\x86\Debug\Senha.Form1.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\Senha\Senha\obj\x86\Debug\Senha.Resources.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\Senha\Senha\obj\x86\Debug\Senha.FrmCriandoSenha.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Senha\Senha\obj\x86\Debug\Senha.vbproj.GenerateResource.Cache
+A:\Documentos\Visual Studio 2010\Projects\Senha\Senha\obj\x86\Debug\Senha.xml
+A:\Documentos\Visual Studio 2010\Projects\Senha\Senha\obj\x86\Debug\Senha.pdb
+A:\Documentos\Visual Studio 2010\Projects\Senha\Senha\bin\Debug\Senha.exe
+A:\Documentos\Visual Studio 2010\Projects\Senha\Senha\bin\Debug\Senha.pdb
+A:\Documentos\Visual Studio 2010\Projects\Senha\Senha\bin\Debug\Senha.xml
+A:\Documentos\Visual Studio 2010\Projects\Senha\Senha\obj\x86\Debug\Senha.vbprojResolveAssemblyReference.cache
+A:\Documentos\Visual Studio 2010\Projects\Senha\Senha\obj\x86\Debug\Senha.Form1.resources
+A:\Documentos\Visual Studio 2010\Projects\Senha\Senha\obj\x86\Debug\Senha.FrmCriandoSenha.resources
+A:\Documentos\Visual Studio 2010\Projects\Senha\Senha\obj\x86\Debug\Senha.Resources.resources
+A:\Documentos\Visual Studio 2010\Projects\Senha\Senha\obj\x86\Debug\Senha.vbproj.GenerateResource.Cache
+A:\Documentos\Visual Studio 2010\Projects\Senha\Senha\obj\x86\Debug\Senha.exe
