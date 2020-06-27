@@ -18,7 +18,20 @@ __*A princípio, segue uma aplicação bem simples! Apenas um "login" que abre u
   - [ ] Aplicativo para abrir qualquer arquivo
   - [ ] Aplicação SendKeys
   
-  **OBS.** _Cadastro de clientes tem uns 4 vou escolher o melhor. Fiquei um tempão sem mexer com visual studio porque comecei mexer com Java._
+  **OBS.** _Cadastro de clientes tem uns 4 vou escolher o melhor. Fiquei um tempão sem mexer com visual studio, mas quando resolvi criar um aplicativo para cadastrar clientes (isso em 2013), o abençoado que ensinava no Youtube desenvolvia em VB. Quando retornei ja procurei JAVA. Por isso estou apanhando para deixar funcional.
+  
+  Espero que seja últil para alguém.
+  
+  Melhor do que ficar parado na minha maquina.
+  
+  Fiquem com Deus!
+  
+  Não se esqueçam que JESUS está voltando! Para quem vocês está preparando sua alma?
+
+  Amo vocês!
+
+  PAZ!!!
+  
   
   ## Licença
 
