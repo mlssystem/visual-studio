@@ -1,0 +1,25 @@
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 5 - Alarme\bin\Debug\Aula 5 - Alarme.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 5 - Alarme\bin\Debug\Aula 5 - Alarme.pdb
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 5 - Alarme\bin\Debug\Aula 5 - Alarme.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 5 - Alarme\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 5 - Alarme\obj\x86\Debug\Aula_5___Alarme.FrmAlarme.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 5 - Alarme\obj\x86\Debug\Aula_5___Alarme.Resources.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 5 - Alarme\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 5 - Alarme\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 5 - Alarme\obj\x86\Debug\Aula 5 - Alarme.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 5 - Alarme\obj\x86\Debug\Aula 5 - Alarme.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 5 - Alarme\obj\x86\Debug\Aula 5 - Alarme.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Aula 5 - Alarme\Aula 5 - Alarme\obj\x86\Debug\Aula 5 - Alarme.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Aula 5 - Alarme\Aula 5 - Alarme\obj\x86\Debug\Aula 5 - Alarme.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Aula 5 - Alarme\Aula 5 - Alarme\obj\x86\Debug\Aula 5 - Alarme.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Aula 5 - Alarme\Aula 5 - Alarme\bin\Debug\Aula 5 - Alarme.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Aula 5 - Alarme\Aula 5 - Alarme\bin\Debug\Aula 5 - Alarme.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Aula 5 - Alarme\Aula 5 - Alarme\bin\Debug\Aula 5 - Alarme.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Aula 5 - Alarme\Aula 5 - Alarme\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Aula 5 - Alarme\Aula 5 - Alarme\obj\x86\Debug\Aula_5___Alarme.FrmAlarme.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Aula 5 - Alarme\Aula 5 - Alarme\obj\x86\Debug\Aula_5___Alarme.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Aula 5 - Alarme\Aula 5 - Alarme\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Aula 5 - Alarme\Aula 5 - Alarme\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 5 - Alarme\Aula 5 - Alarme\obj\x86\Debug\Aula 5 - Alarme.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 5 - Alarme\Aula 5 - Alarme\obj\x86\Debug\Aula 5 - Alarme.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 5 - Alarme\Aula 5 - Alarme\obj\x86\Debug\Aula 5 - Alarme.pdb

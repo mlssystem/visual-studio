@@ -1,0 +1,45 @@
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 4\bin\Debug\Aula 4.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 4\bin\Debug\Aula 4.pdb
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 4\bin\Debug\Aula 4.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 4\obj\x86\Debug\Aula_4.Idadade.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 4\obj\x86\Debug\Aula_4.Resources.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 4\obj\x86\Debug\Aula 4.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 4\obj\x86\Debug\Aula 4.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 4\obj\x86\Debug\Aula 4.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Aula 4\Aula 4\obj\x86\Debug\Aula 4.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Aula 4\Aula 4\obj\x86\Debug\Aula 4.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Aula 4\Aula 4\obj\x86\Debug\Aula 4.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Aula 4\Aula 4\bin\Debug\Aula 4.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Aula 4\Aula 4\bin\Debug\Aula 4.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Aula 4\Aula 4\bin\Debug\Aula 4.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Aula 4\Aula 4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Aula 4\Aula 4\obj\x86\Debug\Aula_4.Idadade.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Aula 4\Aula 4\obj\x86\Debug\Aula_4.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Aula 4\Aula 4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Aula 4\Aula 4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 4\Aula 4\obj\x86\Debug\Aula 4.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 4\Aula 4\obj\x86\Debug\Aula 4.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 4\Aula 4\obj\x86\Debug\Aula 4.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 4\Aula 4\bin\Debug\Aula 4.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 4\Aula 4\bin\Debug\Aula 4.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 4\Aula 4\bin\Debug\Aula 4.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 4\Aula 4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 4\Aula 4\obj\x86\Debug\Aula_4.Idadade.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 4\Aula 4\obj\x86\Debug\Aula_4.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 4\Aula 4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 4\Aula 4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 4 - Calculo de Idade\Aula 4\obj\x86\Debug\Aula 4.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 4 - Calculo de Idade\Aula 4\obj\x86\Debug\Aula 4.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 4 - Calculo de Idade\Aula 4\obj\x86\Debug\Aula 4.pdb
+C:\Users\magai\Documents\Visual Studio 2010\Projects\NewBie\Aula 4 - Calculo de Idade - Copia\Aula 4\obj\x86\Debug\Aula 4.exe
+C:\Users\magai\Documents\Visual Studio 2010\Projects\NewBie\Aula 4 - Calculo de Idade - Copia\Aula 4\obj\x86\Debug\Aula 4.xml
+C:\Users\magai\Documents\Visual Studio 2010\Projects\NewBie\Aula 4 - Calculo de Idade - Copia\Aula 4\obj\x86\Debug\Aula 4.pdb
+C:\Users\magai\Documents\Visual Studio 2010\Projects\NewBie\Aula 4 - Calculo de Idade - Copia\Aula 4\bin\Debug\Aula 4.exe
+C:\Users\magai\Documents\Visual Studio 2010\Projects\NewBie\Aula 4 - Calculo de Idade - Copia\Aula 4\bin\Debug\Aula 4.pdb
+C:\Users\magai\Documents\Visual Studio 2010\Projects\NewBie\Aula 4 - Calculo de Idade - Copia\Aula 4\bin\Debug\Aula 4.xml
+C:\Users\magai\Documents\Visual Studio 2010\Projects\NewBie\Aula 4 - Calculo de Idade - Copia\Aula 4\obj\x86\Debug\Aula_4.Idadade.resources
+C:\Users\magai\Documents\Visual Studio 2010\Projects\NewBie\Aula 4 - Calculo de Idade - Copia\Aula 4\obj\x86\Debug\Aula_4.Resources.resources
+C:\Users\magai\Documents\Visual Studio 2010\Projects\NewBie\Aula 4 - Calculo de Idade - Copia\Aula 4\obj\x86\Debug\Aula 4.vbproj.GenerateResource.Cache

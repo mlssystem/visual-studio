@@ -1,0 +1,45 @@
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 6\bin\Debug\Aula 6.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 6\bin\Debug\Aula 6.pdb
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 6\bin\Debug\Aula 6.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 6\obj\x86\Debug\Aula_6.Form1.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 6\obj\x86\Debug\Aula_6.Resources.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 6\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 6\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 6\obj\x86\Debug\Aula 6.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 6\obj\x86\Debug\Aula 6.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\Aula 6\obj\x86\Debug\Aula 6.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 6\Aula 6\obj\x86\Debug\Aula 6.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 6\Aula 6\obj\x86\Debug\Aula 6.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 6\Aula 6\obj\x86\Debug\Aula 6.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 6\Aula 6\bin\Debug\Aula 6.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 6\Aula 6\bin\Debug\Aula 6.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 6\Aula 6\bin\Debug\Aula 6.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 6\Aula 6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 6\Aula 6\obj\x86\Debug\Aula_6.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 6\Aula 6\obj\x86\Debug\Aula_6.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 6\Aula 6\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 6\Aula 6\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 6  - Palpiteiro\Aula 6\obj\x86\Debug\Aula 6.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 6  - Palpiteiro\Aula 6\obj\x86\Debug\Aula 6.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\New bie\Aula 6  - Palpiteiro\Aula 6\obj\x86\Debug\Aula 6.pdb
+C:\Users\Marcus\Documents\Visual Studio 2010\Projects\New bie\Aula 6  - Palpiteiro\Aula 6\obj\x86\Debug\Aula 6.exe
+C:\Users\Marcus\Documents\Visual Studio 2010\Projects\New bie\Aula 6  - Palpiteiro\Aula 6\obj\x86\Debug\Aula 6.xml
+C:\Users\Marcus\Documents\Visual Studio 2010\Projects\New bie\Aula 6  - Palpiteiro\Aula 6\obj\x86\Debug\Aula 6.pdb
+C:\Users\Marcus\Documents\Visual Studio 2010\Projects\New bie\Aula 6  - Palpiteiro\Aula 6\bin\Debug\Aula 6.exe
+C:\Users\Marcus\Documents\Visual Studio 2010\Projects\New bie\Aula 6  - Palpiteiro\Aula 6\bin\Debug\Aula 6.pdb
+C:\Users\Marcus\Documents\Visual Studio 2010\Projects\New bie\Aula 6  - Palpiteiro\Aula 6\bin\Debug\Aula 6.xml
+C:\Users\Marcus\Documents\Visual Studio 2010\Projects\New bie\Aula 6  - Palpiteiro\Aula 6\obj\x86\Debug\Aula 6.vbprojResolveAssemblyReference.cache
+C:\Users\Marcus\Documents\Visual Studio 2010\Projects\New bie\Aula 6  - Palpiteiro\Aula 6\obj\x86\Debug\Aula_6.Form1.resources
+C:\Users\Marcus\Documents\Visual Studio 2010\Projects\New bie\Aula 6  - Palpiteiro\Aula 6\obj\x86\Debug\Aula_6.Resources.resources
+C:\Users\Marcus\Documents\Visual Studio 2010\Projects\New bie\Aula 6  - Palpiteiro\Aula 6\obj\x86\Debug\Aula 6.vbproj.GenerateResource.Cache
+C:\Users\magai\Documents\Visual Studio 2010\Projects\NewBie\Aula 6  - Palpiteiro\Aula 6\obj\x86\Debug\Aula 6.xml
+C:\Users\magai\Documents\Visual Studio 2010\Projects\NewBie\Aula 6  - Palpiteiro\Aula 6\obj\x86\Debug\Aula 6.pdb
+C:\Users\magai\Documents\Visual Studio 2010\Projects\NewBie\Aula 6  - Palpiteiro\Aula 6\bin\Debug\Aula 6.exe
+C:\Users\magai\Documents\Visual Studio 2010\Projects\NewBie\Aula 6  - Palpiteiro\Aula 6\bin\Debug\Aula 6.pdb
+C:\Users\magai\Documents\Visual Studio 2010\Projects\NewBie\Aula 6  - Palpiteiro\Aula 6\bin\Debug\Aula 6.xml
+C:\Users\magai\Documents\Visual Studio 2010\Projects\NewBie\Aula 6  - Palpiteiro\Aula 6\obj\x86\Debug\Aula 6.vbprojResolveAssemblyReference.cache
+C:\Users\magai\Documents\Visual Studio 2010\Projects\NewBie\Aula 6  - Palpiteiro\Aula 6\obj\x86\Debug\Aula_6.Form1.resources
+C:\Users\magai\Documents\Visual Studio 2010\Projects\NewBie\Aula 6  - Palpiteiro\Aula 6\obj\x86\Debug\Aula_6.Resources.resources
+C:\Users\magai\Documents\Visual Studio 2010\Projects\NewBie\Aula 6  - Palpiteiro\Aula 6\obj\x86\Debug\Aula 6.vbproj.GenerateResource.Cache
+C:\Users\magai\Documents\Visual Studio 2010\Projects\NewBie\Aula 6  - Palpiteiro\Aula 6\obj\x86\Debug\Aula 6.exe

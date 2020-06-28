@@ -1,0 +1,20 @@
+C:\Users\Usuario\AppData\Local\Temporary Projects\Abra qualquer arquivo\bin\Debug\Abra qualquer arquivo.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\Abra qualquer arquivo\bin\Debug\Abra qualquer arquivo.pdb
+C:\Users\Usuario\AppData\Local\Temporary Projects\Abra qualquer arquivo\bin\Debug\Abra qualquer arquivo.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\Abra qualquer arquivo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\AppData\Local\Temporary Projects\Abra qualquer arquivo\obj\x86\Debug\Abra_qualquer_arquivo.Form1.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\Abra qualquer arquivo\obj\x86\Debug\Abra_qualquer_arquivo.Resources.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\Abra qualquer arquivo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Usuario\AppData\Local\Temporary Projects\Abra qualquer arquivo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Usuario\AppData\Local\Temporary Projects\Abra qualquer arquivo\obj\x86\Debug\Abra qualquer arquivo.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\Abra qualquer arquivo\obj\x86\Debug\Abra qualquer arquivo.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\Abra qualquer arquivo\obj\x86\Debug\Abra qualquer arquivo.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Abra qualquer arquivo\Abra qualquer arquivo\obj\x86\Debug\Abra qualquer arquivo.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Abra qualquer arquivo\Abra qualquer arquivo\obj\x86\Debug\Abra qualquer arquivo.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Abra qualquer arquivo\Abra qualquer arquivo\obj\x86\Debug\Abra qualquer arquivo.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Abra qualquer arquivo\Abra qualquer arquivo\bin\Debug\Abra qualquer arquivo.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Abra qualquer arquivo\Abra qualquer arquivo\bin\Debug\Abra qualquer arquivo.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Abra qualquer arquivo\Abra qualquer arquivo\bin\Debug\Abra qualquer arquivo.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Abra qualquer arquivo\Abra qualquer arquivo\obj\x86\Debug\Abra_qualquer_arquivo.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Abra qualquer arquivo\Abra qualquer arquivo\obj\x86\Debug\Abra_qualquer_arquivo.Resources.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\Abra qualquer arquivo\Abra qualquer arquivo\obj\x86\Debug\Abra qualquer arquivo.vbproj.GenerateResource.Cache
