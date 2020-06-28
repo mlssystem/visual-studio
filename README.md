@@ -14,9 +14,12 @@ __*A princípio, segue uma aplicação bem simples! Apenas um "login" que abre u
   
   #### Aplicações de iniciante que criei, e voi disponibilizar:
   
-  - [ ] Cadastro de clientes
-  - [ ] Aplicativo para abrir qualquer arquivo
-  - [ ] Aplicação SendKeys
+  - [ ] Cadastro de clientes (erro db)
+  - [x] Aplicativo para abrir qualquer arquivo
+  - [x] Aplicação SendKeys
+  - [x] Alarme
+  - [x] Calculo de Idade
+  - [x] Palpiteiro
   
   **OBS.** _Cadastro de clientes tem uns 4 vou escolher o melhor. Fiquei um tempão sem mexer com visual studio, mas quando resolvi criar um aplicativo para cadastrar clientes (isso em 2013), o abençoado que ensinava no Youtube desenvolvia em VB. Quando retornei ja procurei JAVA. Por isso estou apanhando para deixar funcional._
   
