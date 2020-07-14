@@ -12,7 +12,7 @@ __*A princípio, segue uma aplicação bem simples! Apenas um "login" que abre u
   
   Também criei um sistema de cadastro e consulta de clientes que não estou mais conseguindo conectar com o banco de dados, mas assim que conseguir irei disponibiliza também. Esse formulario de senha foi criado com itenção de integrar com o sistema que ja estava pronto.
   
-  #### Aplicações de iniciante que criei, e voi disponibilizar:
+  #### Aplicações de iniciante que criei, e vou disponibilizar:
   
   - [ ] Cadastro de clientes (erro db)
   - [x] [Aplicativo para abrir qualquer arquivo](https://github.com/mlssystem/visual-studio/tree/master/Abra%20qualquer%20arquivo)
@@ -29,7 +29,7 @@ __*A princípio, segue uma aplicação bem simples! Apenas um "login" que abre u
   
   Fiquem com Deus!
   
-  Não se esqueçam que JESUS está voltando! Para quem vocês está preparando sua alma?
+  Não se esqueçam que JESUS está voltando! Para quem você está preparando sua alma?
 
   Amo vocês!
 
