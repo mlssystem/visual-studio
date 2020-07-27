@@ -40,5 +40,5 @@ __*A princípio, segue uma aplicação bem simples! Apenas um "login" que abre u
 
 Copyright (c) MLSSystem Todos os direitos reservados.
 
-Licenciado sob a licença [MIT](LICENSE.txt).
+Licenciado sob a licença [MIT](https://github.com/mlssystem/visual-studio/blob/master/LICENSE).
 
